@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://drive.google.com/uc?export=download&id=1aCgMQAzJyfQwm2j7ht4OEeNEGMjIdh5_</string>
+                    <string>https://hackedipa.github.io/-OS-ota/app.ipa</string> <!-- BURAYA DOĞRU IPA LİNKİNİ KOY -->
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.example.feather</string> <!-- Gerçek Bundle ID'n varsa değiştir -->
+                <string>com.example.feather</string> <!-- Gerçek Bundle ID -->
                 <key>bundle-version</key>
                 <string>1.3.0</string>
                 <key>kind</key>
